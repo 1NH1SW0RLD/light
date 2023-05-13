@@ -1,2 +1,2 @@
 # light
-Light 2.0
+Beta version of 1NH Light
